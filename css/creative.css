@@ -141,6 +141,11 @@ aside {
     color: #f05f40;
   }
 }
+
+.container-fluid {
+  background-color: #f05f40;
+}
+
 header {
   position: relative;
   width: 100%;
