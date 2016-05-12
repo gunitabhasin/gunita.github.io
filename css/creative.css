@@ -63,7 +63,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
+  background-color: #f05f40
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
@@ -145,10 +145,10 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
-  -webkit-background-size: 100px 230px;
-  -moz-background-size: 100px 230px;
-  background-size: 100px 230px;
-  -o-background-size: 100px 230px;
+  -webkit-background-size: 200px 300px;
+  -moz-background-size: 200px 300px;
+  background-size: 200px 300px;
+  -o-background-size: 200px 300px;
   background-repeat: no-repeat;
   background-position: center;
   background-image: url('../img/header.jpg');
