@@ -146,10 +146,10 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
-  -webkit-background-size: 200px 300px;
-  -moz-background-size: 200px 300px;
-  background-size: 200px 300px;
-  -o-background-size: 200px 300px;
+  -webkit-background-size: 300px 500px;
+  -moz-background-size: 300px 500px;
+  background-size: 300px 500px;
+  -o-background-size: 300px 500px;
   background-repeat: no-repeat;
   background-position: center;
   background-image: url('../img/header.jpg');
