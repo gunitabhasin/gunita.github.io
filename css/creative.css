@@ -145,6 +145,7 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
+  background-repeat: no-repeat;
   background-position: center;
   background-image: url('../img/header.jpg');
   text-align: center;
