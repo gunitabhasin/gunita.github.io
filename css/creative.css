@@ -94,7 +94,7 @@ aside {
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
   color: #f05f40 !important;
-  background-color: transparent;
+  background-color: #f05f40;
 }
 .navbar-default .nav > li.active > a:hover,
 .navbar-default .nav > li.active > a:focus:hover {
@@ -145,10 +145,10 @@ header {
   position: relative;
   width: 100%;
   min-height: auto;
-  -webkit-background-size: 100px 300px;
-  -moz-background-size: 100px 300px;
-  background-size: 100px 300px;
-  -o-background-size: 100px 300px;
+  -webkit-background-size: 75px 200px;
+  -moz-background-size: 75px 200px;
+  background-size: 75px 200px;
+  -o-background-size: 75px 200px;
   background-repeat: no-repeat;
   background-position: center;
   background-image: url('../img/header.jpg');
