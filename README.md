@@ -1,8 +1,8 @@
-## Gunita Bhasin
+# [Gunita Bhasin] (http://gunitabhasin.github.io/)
 
 This is the Github repository for Gunita Bhasin's webpage. The layout of this page is based on a template by Start Bootstrap. Please see below for the full details of this template.
 
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+## [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
