@@ -544,6 +544,7 @@
 }
 .fa-twitter-square:before {
   content: "\f081";
+  color: white;
 }
 .fa-facebook-square:before {
   content: "\f082";
@@ -578,6 +579,7 @@
 }
 .fa-linkedin-square:before {
   content: "\f08c";
+  color: white;
 }
 .fa-thumb-tack:before {
   content: "\f08d";
@@ -614,6 +616,7 @@
 }
 .fa-twitter:before {
   content: "\f099";
+  color: white;
 }
 .fa-facebook-f:before,
 .fa-facebook:before {
@@ -790,6 +793,7 @@
 }
 .fa-linkedin:before {
   content: "\f0e1";
+  color: white;
 }
 .fa-rotate-left:before,
 .fa-undo:before {
