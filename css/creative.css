@@ -178,13 +178,14 @@ aside {
 }
 
 header {
-    position: relative;
     width: 100%;
     min-height: auto;
     text-align: center;
     color: #fff;
     background-image: url(../img/header.jpg);
-    background-position: center;
+    background-position: center center;
+    background-repeat: none;
+    background-attachment: scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -667,6 +668,10 @@ fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary.active {
     border-color: #f05f40;
     background-color: #f05f40;
+}
+
+.img-centered {
+  margin: 0 auto;
 }
 
 .btn-primary .badge {
