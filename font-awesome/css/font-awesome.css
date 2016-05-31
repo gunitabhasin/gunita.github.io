@@ -181,6 +181,10 @@
   content: "\f003";
   color: white;
 }
+.fa-envelope-o-dark:before {
+  content: "\f003";
+  color: black;
+}
 .fa-heart:before {
   content: "\f004";
 }
@@ -582,6 +586,10 @@
   content: "\f08c";
   color: white;
 }
+.fa-linkedin-square-dark:before {
+  content: "\f0e1";
+  color: black;
+}
 .fa-thumb-tack:before {
   content: "\f08d";
 }
@@ -793,9 +801,17 @@
   content: "\f0e0";
   color: white;
 }
+.fa-envelope-dark:before {
+  content: "\f0e0";
+  color: black;
+}
 .fa-linkedin:before {
   content: "\f0e1";
   color: white;
+}
+.fa-linkedin-dark:before {
+  content: "\f0e1";
+  color: black;
 }
 .fa-rotate-left:before,
 .fa-undo:before {
@@ -1337,6 +1353,10 @@
 .fa-envelope-square:before {
   content: "\f199";
   color: white;
+}
+.fa-envelope-square-dark:before {
+  content: "\f199";
+  color: black;
 }
 .fa-wordpress:before {
   content: "\f19a";
