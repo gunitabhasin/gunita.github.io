@@ -57,7 +57,7 @@ p {
 
 .bg-about {
     color: #fff;
-    background-color: blue;
+    background-color: #308EF0;
 }
 
 .bg-dark {
@@ -182,7 +182,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(../img/header1.jpg);
     background-position: center center;
     background-repeat: none;
     background-attachment: scroll;
