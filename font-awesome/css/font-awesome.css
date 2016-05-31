@@ -179,6 +179,7 @@
 }
 .fa-envelope-o:before {
   content: "\f003";
+  color: white;
 }
 .fa-heart:before {
   content: "\f004";
@@ -790,6 +791,7 @@
 }
 .fa-envelope:before {
   content: "\f0e0";
+  color: white;
 }
 .fa-linkedin:before {
   content: "\f0e1";
@@ -1334,6 +1336,7 @@
 }
 .fa-envelope-square:before {
   content: "\f199";
+  color: white;
 }
 .fa-wordpress:before {
   content: "\f19a";
