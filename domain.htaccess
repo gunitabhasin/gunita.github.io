@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.gunitabhasin.github\.io$ [NC]
+RewriteRule ^(.*)$ http://www.gunitabhasin.github.io/$1 [L,R=301]
